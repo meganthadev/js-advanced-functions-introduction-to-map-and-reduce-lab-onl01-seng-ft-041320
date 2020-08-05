@@ -1,1 +1,1 @@
-mapToNegativize(sourceArray) = sourceArray.map(-1)
+mapToNegativize(sourceArray) = sourceArray.map(-1);
